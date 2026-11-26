@@ -1,23 +1,97 @@
-# Strata Data Engine — Datos públicos de la minería en Ecuador
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/img/banner-oscuro.svg">
+  <img alt="Strata Data Engine. Datos mineros de Ecuador, consolidados y verificables" src="docs/img/banner-claro.svg" width="100%">
+</picture>
 
-[![Datos: CC BY 4.0](https://img.shields.io/badge/Datos-CC%20BY%204.0-lightgrey.svg)](DATA_LICENSE.md)
-[![Código: MIT](https://img.shields.io/badge/C%C3%B3digo-MIT-lightgrey.svg)](LICENSE)
+<p>
+  <img alt="Versión v2026.11.0" src="https://img.shields.io/badge/versi%C3%B3n-v2026.11.0-2F4A43">
+  <img alt="Datos: CC BY 4.0" src="https://img.shields.io/badge/datos-CC%20BY%204.0-2F4A43">
+  <img alt="Código: MIT" src="https://img.shields.io/badge/c%C3%B3digo-MIT-5A5650">
+  <img alt="Fuentes con huella SHA-256" src="https://img.shields.io/badge/fuentes-con%20huella%20SHA--256-007A5A">
+  <a href="https://www.instagram.com/stratadataec/"><img alt="Instagram de Strata" src="https://img.shields.io/badge/Instagram-seguir-2F4A43?logo=instagram&logoColor=white"></a>
+</p>
 
-Strata Data Engine reúne en una base relacional reproducible los datos públicos verificados sobre la minería en Ecuador y sus precios internacionales de referencia. Cada cifra procede de una publicación oficial identificable, se normaliza y puede rastrearse hasta su documento de origen.
+Strata Data Engine reúne y verifica los datos públicos de la minería en Ecuador: precios internacionales de referencia, exportaciones y series oficiales documentadas. Hoy esas cifras están repartidas en cientos de documentos de instituciones distintas, cada uno en su web y en su formato. Aquí están limpias, con la misma estructura y listas para cruzar.
 
-Web del proyecto: [https://stratadata.app](https://stratadata.app)
+Lo que distingue a Strata es que cada cifra se puede comprobar. Cada dato indica de qué archivo oficial sale, en qué página, cuadro o celda está, y la huella de ese archivo. No hace falta confiar en Strata: basta con descargar el archivo de la institución y comprobarlo.
 
-> Proyecto técnico independiente, sin fines de lucro y sin afiliación con el Estado ni con empresas mineras. Los datos se presentan tal como los publican sus instituciones y conservan sus términos de uso. Ver [docs/PRIVACY.md](docs/PRIVACY.md) y [docs/DISCLAIMER.md](docs/DISCLAIMER.md).
+## El problema
 
-## 1. Principios
-- **La fuente oficial manda.** Toda cifra sale de un documento oficial identificable. Lo que no está en un documento no se estima ni se interpola.
-- **Trazabilidad.** Cada dataset indica su institución, documento de origen y huella SHA-256 del archivo oficial en `manifest.json`.
-- **Integridad.** Cada archivo publicado tiene su huella SHA-256 verificable en `src/data/checksums_sha256.txt`.
-- **Privacidad.** No se publican datos de personas naturales. Ver [docs/PRIVACY.md](docs/PRIVACY.md).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/img/problema-oscuro.svg">
+  <img alt="168 documentos oficiales repartidos en 32 fuentes" src="docs/img/problema-claro.svg" width="100%">
+</picture>
 
-## 2. Inicio rápido: construir la base de datos local
+**[Ver de dónde sale cada documento: las 32 fuentes, cómo se obtienen y qué años cubren](FUENTES.md)**
 
-Cualquier persona puede reconstruir la base relacional en local de forma determinista, validando matemáticamente cada archivo contra su huella SHA-256 oficial:
+## La solución
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/img/solucion-oscuro.svg">
+  <img alt="Strata lo hace por usted, y gratis: descarga, limpia, cruza y comprueba" src="docs/img/solucion-claro.svg" width="100%">
+</picture>
+
+## Catálogo de tablas
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/img/catalogo-oscuro.svg">
+  <img alt="Catálogo de tablas con su estado de publicación y de comprobación" src="docs/img/catalogo-claro.svg" width="100%">
+</picture>
+
+<details>
+<summary>El catálogo en texto, para buscar y copiar</summary>
+
+| Tabla / Conjunto | Institución | Periodo | Filas | Comprobación | Publicación |
+|---|---|---|---:|---|---|
+| `wb_precio_oro_cobre_mensual` | Banco Mundial | 2015-01 a 2026-09 | 282 | Verificado | Publicada |
+| `bce_exportaciones_mensuales` | Banco Central (BCE) | 2021-A a 2025-A · 2024-01 a 2026-07 | 1.296 | Verificado | Publicada |
+| `bce_exportaciones_mineras_rubro` | Banco Central (BCE) | 2025-T1 a 2026-T2 | 20 | Verificado | Publicada |
+| `Producción trimestral de Fruta del Norte` | Lundin Gold | próximamente | — | Discrepancia (Strata halló un error en el comunicado de 2021-T1: 9 de 243 filas) | Próximamente |
+| `Empleo formal minero` | INEC | próximamente | — | Pendiente | Próximamente |
+| `Catastro minero` | ARCOM | próximamente | — | Pendiente | Próximamente |
+
+</details>
+
+### Un error hallado en la fuente
+
+En el comunicado del primer trimestre de 2021 de Lundin Gold (Fruta del Norte), el desglose suma `70.642 + 33.675 = 104.317` onzas frente a `104.137` publicadas; el total del año sí cuadra con el acumulado anual.
+
+## Cómo se comprueba
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/img/verificar-oscuro.svg">
+  <img alt="Comprobar una cifra en tres pasos: descargue, arrastre y listo" src="docs/img/verificar-claro.svg" width="100%">
+</picture>
+
+<details>
+<summary>Para expertos: comprobarlo sin la web</summary>
+
+Cada archivo oficial tiene una huella SHA-256 registrada en `manifest.json` y cada CSV publicado en `src/data/checksums_sha256.txt`. Para calcularla:
+
+- Linux o macOS: `sha256sum CMO-Historical-Data-Monthly.xlsx`
+- Windows: `certutil -hashfile CMO-Historical-Data-Monthly.xlsx SHA256`
+- Verificador incluido: `python build_engine.py --verify-only`
+
+Ejemplo real: el Excel mensual del Banco Mundial da `ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154`; el precio del oro de septiembre de 2026 está en la hoja `Monthly Prices`, celda `BR807`.
+
+Un PDF o un Excel que no cambia se comprueba por su huella. Una fuente dinámica (una API o un archivo que se genera al descargarlo) puede dar otra huella con los mismos datos; esa se comprueba por el valor de su celda.
+</details>
+
+## Ejemplo: el precio del oro
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/img/grafica-oro-oscuro.svg">
+  <img alt="Precio mensual del oro, de 1.251 a 4.319 USD por onza, enero 2015 a septiembre 2026" src="docs/img/grafica-oro-claro.svg" width="100%">
+</picture>
+
+## Cómo usarlo
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/img/formatos-oscuro.svg">
+  <img alt="Formatos disponibles: CSV y SQLite" src="docs/img/formatos-claro.svg" width="100%">
+</picture>
+
+Clone el repositorio y construya la base local SQLite validando las huellas SHA-256:
 
 ```bash
 git clone https://github.com/strata-data/datos.git
@@ -25,73 +99,49 @@ cd datos
 python build_engine.py
 ```
 
-Esto genera el archivo `strata_public.db` (SQLite) con las 3 tablas normalizadas y las vistas analíticas públicas.
+Esto genera `strata_public.db` con las 3 tablas (`wb_precio_oro_cobre_mensual`, `bce_exportaciones_mensuales` y `bce_exportaciones_mineras_rubro`) y las vistas analíticas públicas. Opciones útiles:
 
-Opciones del CLI:
 ```bash
-python build_engine.py --verify-only      # Solo valida los checksums SHA-256 sin modificar nada
-python build_engine.py --target postgres  # Ingesta en un servidor PostgreSQL local o remoto
-python build_engine.py --db-path mi_bd.db # Especifica una ruta personalizada para la base SQLite
+python build_engine.py --verify-only      # Solo valida checksums SHA-256
+python build_engine.py --target postgres  # Carga en PostgreSQL local o remoto
+python build_engine.py --db-path mi_bd.db # Ruta personalizada para SQLite
 ```
 
-## 3. Datasets (v2026.11.0)
-En `src/data/csv/`:
+- **Comprobar un archivo oficial:** en [https://stratadata.app/verificar](https://stratadata.app/verificar).
 
-| Dataset | Institución | Período | Filas | Estado |
-|---|---|---|---:|---|
-| `bce_exportaciones_mensuales.csv` | Banco Central del Ecuador (BCE) | 2021–2025 anual y ene 2024–jul 2026 mensual | 1.296 | Verificado contra la fuente |
-| `bce_exportaciones_mineras_rubro.csv` | Banco Central del Ecuador (BCE) | 2025-T1 a 2026-T2 | 20 | Verificado contra la fuente |
-| `wb_precio_oro_cobre_mensual.csv` | Banco Mundial (World Bank) | ene 2015 a sep 2026 | 282 | Verificado contra la fuente |
+## Versiones
 
-"Verificado contra la fuente" significa que el dataset se comparó, fila por fila o contra los totales publicados, frente al documento oficial de la institución emisora.
+La versión publicada actual es `v2026.11.0`, con las 3 tablas verificadas en `src/data/csv/` y sus huellas en `manifest.json` y `src/data/checksums_sha256.txt`. El historial de cambios está en `CHANGELOG.md`.
 
-### Vistas públicas
-`build_engine.py` aplica `sql/views_publicas.sql` sobre las tablas cargadas. Las pruebas de `tests/test_vistas_publicas.py` comprueban cada vista contra su tabla de origen:
+## Reportar un error en los datos
 
-| Vista | Origen | Qué hace |
-|---|---|---|
-| `vw_public_bce_exportaciones_mensuales` | `bce_exportaciones_mensuales` | Filtra las filas mensuales (`tipo_periodo = 'MES'`). |
-| `vw_public_wb_precio_oro_cobre` | `wb_precio_oro_cobre_mensual` | Expone la serie mensual internacional de precios de oro y cobre. |
+¿Encontró una cifra que no coincide con su fuente? Abra un [*issue*](https://github.com/strata-data/datos/issues) con:
 
-## 4. Cómo comprobar una huella SHA-256
+1. La tabla y la fila.
+2. El valor que muestra Strata y el que muestra la fuente.
+3. El enlace al documento oficial y la página, el cuadro o la celda.
 
-Cada archivo CSV en `src/data/csv/` tiene su huella registrada en `src/data/checksums_sha256.txt` y en `manifest.json` (y en el verificador de [https://stratadata.app](https://stratadata.app)).
+Se revisa contra el documento oficial. Si corresponde, se corrige en la siguiente versión y se anota en `CHANGELOG.md`.
 
-En Linux o macOS:
-```bash
-sha256sum src/data/csv/*.csv
-```
+## Comunidad
 
-En Windows (PowerShell):
-```powershell
-Get-FileHash -Algorithm SHA256 src\data\csv\*.csv
-```
+Manténgase al tanto de cada versión nueva en [Instagram](https://www.instagram.com/stratadataec/), [YouTube](https://www.youtube.com/@stratadataec) y [LinkedIn](https://www.linkedin.com/company/stratadata).
 
-O mediante el verificador incluido:
-```bash
-python build_engine.py --verify-only
-```
+## Cómo citar
 
-Compare la salida obtenida con `src/data/checksums_sha256.txt`. Si un solo carácter o número cambia, la huella cambia por completo. Ver también [docs/CADENA_DE_CUSTODIA.md](docs/CADENA_DE_CUSTODIA.md) y [docs/AUDIT_PROTOCOL.md](docs/AUDIT_PROTOCOL.md).
+> Fuente de datos: Strata Data Engine (https://github.com/strata-data/datos), CC BY 4.0. Datos originales: [institución emisora, por ejemplo BCE o Banco Mundial].
 
-## 5. Estructura
-```text
-datos/
-├── build_engine.py                 # CLI de ingesta y construcción local (SQLite / PostgreSQL)
-├── docs/                           # AUDIT_PROTOCOL, CADENA_DE_CUSTODIA, DISCLAIMER, METHODOLOGY, PRIVACY
-├── sql/                            # Vistas SQL públicas
-├── src/
-│   ├── data/csv/                   # Datasets normalizados en UTF-8 (LF)
-│   ├── data/checksums_sha256.txt   # Huellas SHA-256 oficiales
-│   └── schema/current/strata.schema.sql
-├── tests/                          # Pruebas automáticas de integridad y vistas
-├── CHANGELOG.md
-├── DATA_LICENSE.md                 # CC BY 4.0 (datos y esquema)
-├── LICENSE                         # MIT (código)
-└── manifest.json                   # Linaje oficial y huellas de la versión
-```
+## Autores y colaboradores
 
-## 6. Licencia y cita
-- **Datos y esquema:** CC BY 4.0. Ver [DATA_LICENSE.md](DATA_LICENSE.md), que explica cómo citar.
-- **Código:** MIT. Ver [LICENSE](LICENSE).
-- **Datos de instituciones públicas:** conservan los términos de su institución emisora.
+- **Autor:** Strata Data EC.
+- **Colaboradores:** quienes reportan errores, proponen fuentes o envían mejoras en el repositorio.
+
+## Licencias
+
+- **Datos, manifiesto y lista de fuentes:** CC BY 4.0. Ver `DATA_LICENSE.md`.
+- **Código y scripts de carga:** MIT. Ver `LICENSE`.
+- **Datos de las instituciones públicas:** conservan los términos de su institución emisora. CC BY 4.0 cubre lo que aporta Strata: la selección, la limpieza y la estructura.
+
+## Enlaces
+
+[stratadata.app](https://stratadata.app) · [Instagram](https://www.instagram.com/stratadataec/) · [YouTube](https://www.youtube.com/@stratadataec) · [LinkedIn](https://www.linkedin.com/company/stratadata) · [Issues](https://github.com/strata-data/datos/issues)
