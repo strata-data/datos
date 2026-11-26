@@ -1,0 +1,283 @@
+periodo,mineral_codigo,producto,unidad,valor,ubicacion,archivo,archivo_sha256
+2015-01,COBRE,Copper,($/mt),5831.000000,Monthly Prices!BM667,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-01,ORO,Gold,($/troy oz),1251.000000,Monthly Prices!BR667,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-02,COBRE,Copper,($/mt),5729.000000,Monthly Prices!BM668,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-02,ORO,Gold,($/troy oz),1227.000000,Monthly Prices!BR668,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-03,COBRE,Copper,($/mt),5940.000000,Monthly Prices!BM669,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-03,ORO,Gold,($/troy oz),1179.000000,Monthly Prices!BR669,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-04,COBRE,Copper,($/mt),6042.000000,Monthly Prices!BM670,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-04,ORO,Gold,($/troy oz),1199.000000,Monthly Prices!BR670,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-05,COBRE,Copper,($/mt),6295.000000,Monthly Prices!BM671,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-05,ORO,Gold,($/troy oz),1199.000000,Monthly Prices!BR671,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-06,COBRE,Copper,($/mt),5833.000000,Monthly Prices!BM672,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-06,ORO,Gold,($/troy oz),1182.000000,Monthly Prices!BR672,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-07,COBRE,Copper,($/mt),5457.000000,Monthly Prices!BM673,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-07,ORO,Gold,($/troy oz),1128.000000,Monthly Prices!BR673,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-08,COBRE,Copper,($/mt),5127.000000,Monthly Prices!BM674,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-08,ORO,Gold,($/troy oz),1118.000000,Monthly Prices!BR674,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-09,COBRE,Copper,($/mt),5217.000000,Monthly Prices!BM675,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-09,ORO,Gold,($/troy oz),1125.000000,Monthly Prices!BR675,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-10,COBRE,Copper,($/mt),5216.000000,Monthly Prices!BM676,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-10,ORO,Gold,($/troy oz),1159.000000,Monthly Prices!BR676,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-11,COBRE,Copper,($/mt),4800.000000,Monthly Prices!BM677,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-11,ORO,Gold,($/troy oz),1086.000000,Monthly Prices!BR677,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-12,COBRE,Copper,($/mt),4639.000000,Monthly Prices!BM678,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2015-12,ORO,Gold,($/troy oz),1076.000000,Monthly Prices!BR678,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-01,COBRE,Copper,($/mt),4472.000000,Monthly Prices!BM679,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-01,ORO,Gold,($/troy oz),1098.000000,Monthly Prices!BR679,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-02,COBRE,Copper,($/mt),4599.000000,Monthly Prices!BM680,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-02,ORO,Gold,($/troy oz),1200.000000,Monthly Prices!BR680,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-03,COBRE,Copper,($/mt),4954.000000,Monthly Prices!BM681,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-03,ORO,Gold,($/troy oz),1245.000000,Monthly Prices!BR681,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-04,COBRE,Copper,($/mt),4873.000000,Monthly Prices!BM682,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-04,ORO,Gold,($/troy oz),1242.000000,Monthly Prices!BR682,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-05,COBRE,Copper,($/mt),4695.000000,Monthly Prices!BM683,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-05,ORO,Gold,($/troy oz),1261.000000,Monthly Prices!BR683,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-06,COBRE,Copper,($/mt),4642.000000,Monthly Prices!BM684,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-06,ORO,Gold,($/troy oz),1276.000000,Monthly Prices!BR684,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-07,COBRE,Copper,($/mt),4865.000000,Monthly Prices!BM685,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-07,ORO,Gold,($/troy oz),1337.000000,Monthly Prices!BR685,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-08,COBRE,Copper,($/mt),4752.000000,Monthly Prices!BM686,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-08,ORO,Gold,($/troy oz),1340.000000,Monthly Prices!BR686,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-09,COBRE,Copper,($/mt),4722.000000,Monthly Prices!BM687,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-09,ORO,Gold,($/troy oz),1327.000000,Monthly Prices!BR687,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-10,COBRE,Copper,($/mt),4731.000000,Monthly Prices!BM688,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-10,ORO,Gold,($/troy oz),1267.000000,Monthly Prices!BR688,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-11,COBRE,Copper,($/mt),5451.000000,Monthly Prices!BM689,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-11,ORO,Gold,($/troy oz),1238.000000,Monthly Prices!BR689,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-12,COBRE,Copper,($/mt),5660.000000,Monthly Prices!BM690,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2016-12,ORO,Gold,($/troy oz),1157.000000,Monthly Prices!BR690,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-01,COBRE,Copper,($/mt),5755.000000,Monthly Prices!BM691,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-01,ORO,Gold,($/troy oz),1192.000000,Monthly Prices!BR691,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-02,COBRE,Copper,($/mt),5941.000000,Monthly Prices!BM692,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-02,ORO,Gold,($/troy oz),1234.000000,Monthly Prices!BR692,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-03,COBRE,Copper,($/mt),5825.000000,Monthly Prices!BM693,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-03,ORO,Gold,($/troy oz),1231.000000,Monthly Prices!BR693,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-04,COBRE,Copper,($/mt),5684.000000,Monthly Prices!BM694,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-04,ORO,Gold,($/troy oz),1267.000000,Monthly Prices!BR694,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-05,COBRE,Copper,($/mt),5600.000000,Monthly Prices!BM695,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-05,ORO,Gold,($/troy oz),1246.000000,Monthly Prices!BR695,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-06,COBRE,Copper,($/mt),5720.000000,Monthly Prices!BM696,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-06,ORO,Gold,($/troy oz),1260.000000,Monthly Prices!BR696,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-07,COBRE,Copper,($/mt),5985.000000,Monthly Prices!BM697,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-07,ORO,Gold,($/troy oz),1237.000000,Monthly Prices!BR697,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-08,COBRE,Copper,($/mt),6486.000000,Monthly Prices!BM698,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-08,ORO,Gold,($/troy oz),1283.000000,Monthly Prices!BR698,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-09,COBRE,Copper,($/mt),6577.000000,Monthly Prices!BM699,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-09,ORO,Gold,($/troy oz),1314.000000,Monthly Prices!BR699,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-10,COBRE,Copper,($/mt),6808.000000,Monthly Prices!BM700,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-10,ORO,Gold,($/troy oz),1280.000000,Monthly Prices!BR700,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-11,COBRE,Copper,($/mt),6827.000000,Monthly Prices!BM701,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-11,ORO,Gold,($/troy oz),1282.000000,Monthly Prices!BR701,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-12,COBRE,Copper,($/mt),6834.000000,Monthly Prices!BM702,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2017-12,ORO,Gold,($/troy oz),1264.000000,Monthly Prices!BR702,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-01,COBRE,Copper,($/mt),7066.000000,Monthly Prices!BM703,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-01,ORO,Gold,($/troy oz),1331.000000,Monthly Prices!BR703,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-02,COBRE,Copper,($/mt),7007.000000,Monthly Prices!BM704,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-02,ORO,Gold,($/troy oz),1331.000000,Monthly Prices!BR704,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-03,COBRE,Copper,($/mt),6799.000000,Monthly Prices!BM705,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-03,ORO,Gold,($/troy oz),1325.000000,Monthly Prices!BR705,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-04,COBRE,Copper,($/mt),6852.000000,Monthly Prices!BM706,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-04,ORO,Gold,($/troy oz),1335.000000,Monthly Prices!BR706,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-05,COBRE,Copper,($/mt),6825.000000,Monthly Prices!BM707,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-05,ORO,Gold,($/troy oz),1303.000000,Monthly Prices!BR707,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-06,COBRE,Copper,($/mt),6966.000000,Monthly Prices!BM708,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-06,ORO,Gold,($/troy oz),1282.000000,Monthly Prices!BR708,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-07,COBRE,Copper,($/mt),6251.000000,Monthly Prices!BM709,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-07,ORO,Gold,($/troy oz),1238.000000,Monthly Prices!BR709,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-08,COBRE,Copper,($/mt),6051.000000,Monthly Prices!BM710,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-08,ORO,Gold,($/troy oz),1202.000000,Monthly Prices!BR710,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-09,COBRE,Copper,($/mt),6051.000000,Monthly Prices!BM711,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-09,ORO,Gold,($/troy oz),1198.000000,Monthly Prices!BR711,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-10,COBRE,Copper,($/mt),6220.000000,Monthly Prices!BM712,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-10,ORO,Gold,($/troy oz),1215.000000,Monthly Prices!BR712,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-11,COBRE,Copper,($/mt),6196.000000,Monthly Prices!BM713,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-11,ORO,Gold,($/troy oz),1221.000000,Monthly Prices!BR713,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-12,COBRE,Copper,($/mt),6075.000000,Monthly Prices!BM714,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2018-12,ORO,Gold,($/troy oz),1250.000000,Monthly Prices!BR714,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-01,COBRE,Copper,($/mt),5939.000000,Monthly Prices!BM715,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-01,ORO,Gold,($/troy oz),1292.000000,Monthly Prices!BR715,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-02,COBRE,Copper,($/mt),6300.000000,Monthly Prices!BM716,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-02,ORO,Gold,($/troy oz),1320.000000,Monthly Prices!BR716,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-03,COBRE,Copper,($/mt),6439.000000,Monthly Prices!BM717,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-03,ORO,Gold,($/troy oz),1301.000000,Monthly Prices!BR717,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-04,COBRE,Copper,($/mt),6438.000000,Monthly Prices!BM718,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-04,ORO,Gold,($/troy oz),1286.000000,Monthly Prices!BR718,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-05,COBRE,Copper,($/mt),6018.000000,Monthly Prices!BM719,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-05,ORO,Gold,($/troy oz),1284.000000,Monthly Prices!BR719,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-06,COBRE,Copper,($/mt),5882.000000,Monthly Prices!BM720,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-06,ORO,Gold,($/troy oz),1359.000000,Monthly Prices!BR720,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-07,COBRE,Copper,($/mt),5941.000000,Monthly Prices!BM721,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-07,ORO,Gold,($/troy oz),1413.000000,Monthly Prices!BR721,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-08,COBRE,Copper,($/mt),5709.000000,Monthly Prices!BM722,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-08,ORO,Gold,($/troy oz),1500.000000,Monthly Prices!BR722,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-09,COBRE,Copper,($/mt),5759.000000,Monthly Prices!BM723,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-09,ORO,Gold,($/troy oz),1511.000000,Monthly Prices!BR723,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-10,COBRE,Copper,($/mt),5757.000000,Monthly Prices!BM724,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-10,ORO,Gold,($/troy oz),1495.000000,Monthly Prices!BR724,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-11,COBRE,Copper,($/mt),5860.000000,Monthly Prices!BM725,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-11,ORO,Gold,($/troy oz),1471.000000,Monthly Prices!BR725,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-12,COBRE,Copper,($/mt),6077.000000,Monthly Prices!BM726,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2019-12,ORO,Gold,($/troy oz),1479.000000,Monthly Prices!BR726,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-01,COBRE,Copper,($/mt),6031.000000,Monthly Prices!BM727,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-01,ORO,Gold,($/troy oz),1561.000000,Monthly Prices!BR727,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-02,COBRE,Copper,($/mt),5688.000000,Monthly Prices!BM728,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-02,ORO,Gold,($/troy oz),1597.000000,Monthly Prices!BR728,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-03,COBRE,Copper,($/mt),5183.000000,Monthly Prices!BM729,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-03,ORO,Gold,($/troy oz),1592.000000,Monthly Prices!BR729,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-04,COBRE,Copper,($/mt),5058.000000,Monthly Prices!BM730,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-04,ORO,Gold,($/troy oz),1683.000000,Monthly Prices!BR730,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-05,COBRE,Copper,($/mt),5240.000000,Monthly Prices!BM731,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-05,ORO,Gold,($/troy oz),1716.000000,Monthly Prices!BR731,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-06,COBRE,Copper,($/mt),5755.000000,Monthly Prices!BM732,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-06,ORO,Gold,($/troy oz),1732.000000,Monthly Prices!BR732,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-07,COBRE,Copper,($/mt),6372.000000,Monthly Prices!BM733,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-07,ORO,Gold,($/troy oz),1847.000000,Monthly Prices!BR733,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-08,COBRE,Copper,($/mt),6499.000000,Monthly Prices!BM734,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-08,ORO,Gold,($/troy oz),1969.000000,Monthly Prices!BR734,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-09,COBRE,Copper,($/mt),6705.000000,Monthly Prices!BM735,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-09,ORO,Gold,($/troy oz),1922.000000,Monthly Prices!BR735,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-10,COBRE,Copper,($/mt),6714.000000,Monthly Prices!BM736,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-10,ORO,Gold,($/troy oz),1900.000000,Monthly Prices!BR736,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-11,COBRE,Copper,($/mt),7069.000000,Monthly Prices!BM737,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-11,ORO,Gold,($/troy oz),1866.000000,Monthly Prices!BR737,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-12,COBRE,Copper,($/mt),7772.000000,Monthly Prices!BM738,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2020-12,ORO,Gold,($/troy oz),1858.000000,Monthly Prices!BR738,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-01,COBRE,Copper,($/mt),7972.000000,Monthly Prices!BM739,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-01,ORO,Gold,($/troy oz),1867.000000,Monthly Prices!BR739,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-02,COBRE,Copper,($/mt),8471.000000,Monthly Prices!BM740,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-02,ORO,Gold,($/troy oz),1808.000000,Monthly Prices!BR740,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-03,COBRE,Copper,($/mt),8988.000000,Monthly Prices!BM741,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-03,ORO,Gold,($/troy oz),1718.000000,Monthly Prices!BR741,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-04,COBRE,Copper,($/mt),9325.000000,Monthly Prices!BM742,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-04,ORO,Gold,($/troy oz),1760.000000,Monthly Prices!BR742,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-05,COBRE,Copper,($/mt),10162.000000,Monthly Prices!BM743,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-05,ORO,Gold,($/troy oz),1850.000000,Monthly Prices!BR743,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-06,COBRE,Copper,($/mt),9632.000000,Monthly Prices!BM744,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-06,ORO,Gold,($/troy oz),1835.000000,Monthly Prices!BR744,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-07,COBRE,Copper,($/mt),9451.000000,Monthly Prices!BM745,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-07,ORO,Gold,($/troy oz),1808.000000,Monthly Prices!BR745,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-08,COBRE,Copper,($/mt),9370.000000,Monthly Prices!BM746,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-08,ORO,Gold,($/troy oz),1785.000000,Monthly Prices!BR746,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-09,COBRE,Copper,($/mt),9325.000000,Monthly Prices!BM747,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-09,ORO,Gold,($/troy oz),1775.000000,Monthly Prices!BR747,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-10,COBRE,Copper,($/mt),9829.000000,Monthly Prices!BM748,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-10,ORO,Gold,($/troy oz),1777.000000,Monthly Prices!BR748,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-11,COBRE,Copper,($/mt),9729.000000,Monthly Prices!BM749,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-11,ORO,Gold,($/troy oz),1822.000000,Monthly Prices!BR749,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-12,COBRE,Copper,($/mt),9551.000000,Monthly Prices!BM750,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2021-12,ORO,Gold,($/troy oz),1790.000000,Monthly Prices!BR750,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-01,COBRE,Copper,($/mt),9782.000000,Monthly Prices!BM751,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-01,ORO,Gold,($/troy oz),1816.000000,Monthly Prices!BR751,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-02,COBRE,Copper,($/mt),9943.000000,Monthly Prices!BM752,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-02,ORO,Gold,($/troy oz),1856.000000,Monthly Prices!BR752,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-03,COBRE,Copper,($/mt),10231.000000,Monthly Prices!BM753,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-03,ORO,Gold,($/troy oz),1948.000000,Monthly Prices!BR753,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-04,COBRE,Copper,($/mt),10161.000000,Monthly Prices!BM754,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-04,ORO,Gold,($/troy oz),1937.000000,Monthly Prices!BR754,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-05,COBRE,Copper,($/mt),9377.000000,Monthly Prices!BM755,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-05,ORO,Gold,($/troy oz),1849.000000,Monthly Prices!BR755,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-06,COBRE,Copper,($/mt),9024.000000,Monthly Prices!BM756,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-06,ORO,Gold,($/troy oz),1837.000000,Monthly Prices!BR756,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-07,COBRE,Copper,($/mt),7545.000000,Monthly Prices!BM757,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-07,ORO,Gold,($/troy oz),1733.000000,Monthly Prices!BR757,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-08,COBRE,Copper,($/mt),7982.000000,Monthly Prices!BM758,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-08,ORO,Gold,($/troy oz),1765.000000,Monthly Prices!BR758,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-09,COBRE,Copper,($/mt),7746.000000,Monthly Prices!BM759,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-09,ORO,Gold,($/troy oz),1681.000000,Monthly Prices!BR759,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-10,COBRE,Copper,($/mt),7651.000000,Monthly Prices!BM760,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-10,ORO,Gold,($/troy oz),1664.000000,Monthly Prices!BR760,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-11,COBRE,Copper,($/mt),8050.000000,Monthly Prices!BM761,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-11,ORO,Gold,($/troy oz),1725.000000,Monthly Prices!BR761,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-12,COBRE,Copper,($/mt),8375.000000,Monthly Prices!BM762,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2022-12,ORO,Gold,($/troy oz),1798.000000,Monthly Prices!BR762,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-01,COBRE,Copper,($/mt),9038.000000,Monthly Prices!BM763,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-01,ORO,Gold,($/troy oz),1898.000000,Monthly Prices!BR763,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-02,COBRE,Copper,($/mt),8937.000000,Monthly Prices!BM764,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-02,ORO,Gold,($/troy oz),1855.000000,Monthly Prices!BR764,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-03,COBRE,Copper,($/mt),8856.000000,Monthly Prices!BM765,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-03,ORO,Gold,($/troy oz),1913.000000,Monthly Prices!BR765,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-04,COBRE,Copper,($/mt),8809.000000,Monthly Prices!BM766,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-04,ORO,Gold,($/troy oz),2000.000000,Monthly Prices!BR766,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-05,COBRE,Copper,($/mt),8217.000000,Monthly Prices!BM767,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-05,ORO,Gold,($/troy oz),1992.000000,Monthly Prices!BR767,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-06,COBRE,Copper,($/mt),8397.000000,Monthly Prices!BM768,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-06,ORO,Gold,($/troy oz),1943.000000,Monthly Prices!BR768,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-07,COBRE,Copper,($/mt),8477.000000,Monthly Prices!BM769,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-07,ORO,Gold,($/troy oz),1951.000000,Monthly Prices!BR769,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-08,COBRE,Copper,($/mt),8349.000000,Monthly Prices!BM770,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-08,ORO,Gold,($/troy oz),1919.000000,Monthly Prices!BR770,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-09,COBRE,Copper,($/mt),8277.000000,Monthly Prices!BM771,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-09,ORO,Gold,($/troy oz),1916.000000,Monthly Prices!BR771,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-10,COBRE,Copper,($/mt),7937.000000,Monthly Prices!BM772,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-10,ORO,Gold,($/troy oz),1916.000000,Monthly Prices!BR772,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-11,COBRE,Copper,($/mt),8190.000000,Monthly Prices!BM773,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-11,ORO,Gold,($/troy oz),1984.000000,Monthly Prices!BR773,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-12,COBRE,Copper,($/mt),8400.000000,Monthly Prices!BM774,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2023-12,ORO,Gold,($/troy oz),2026.000000,Monthly Prices!BR774,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-01,COBRE,Copper,($/mt),8339.000000,Monthly Prices!BM775,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-01,ORO,Gold,($/troy oz),2034.000000,Monthly Prices!BR775,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-02,COBRE,Copper,($/mt),8305.000000,Monthly Prices!BM776,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-02,ORO,Gold,($/troy oz),2023.000000,Monthly Prices!BR776,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-03,COBRE,Copper,($/mt),8689.000000,Monthly Prices!BM777,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-03,ORO,Gold,($/troy oz),2158.000000,Monthly Prices!BR777,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-04,COBRE,Copper,($/mt),9464.000000,Monthly Prices!BM778,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-04,ORO,Gold,($/troy oz),2331.000000,Monthly Prices!BR778,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-05,COBRE,Copper,($/mt),10139.000000,Monthly Prices!BM779,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-05,ORO,Gold,($/troy oz),2351.000000,Monthly Prices!BR779,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-06,COBRE,Copper,($/mt),9648.000000,Monthly Prices!BM780,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-06,ORO,Gold,($/troy oz),2326.000000,Monthly Prices!BR780,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-07,COBRE,Copper,($/mt),9385.000000,Monthly Prices!BM781,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-07,ORO,Gold,($/troy oz),2398.000000,Monthly Prices!BR781,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-08,COBRE,Copper,($/mt),8972.000000,Monthly Prices!BM782,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-08,ORO,Gold,($/troy oz),2470.000000,Monthly Prices!BR782,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-09,COBRE,Copper,($/mt),9237.000000,Monthly Prices!BM783,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-09,ORO,Gold,($/troy oz),2571.000000,Monthly Prices!BR783,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-10,COBRE,Copper,($/mt),9534.000000,Monthly Prices!BM784,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-10,ORO,Gold,($/troy oz),2690.000000,Monthly Prices!BR784,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-11,COBRE,Copper,($/mt),9076.000000,Monthly Prices!BM785,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-11,ORO,Gold,($/troy oz),2651.000000,Monthly Prices!BR785,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-12,COBRE,Copper,($/mt),8916.000000,Monthly Prices!BM786,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2024-12,ORO,Gold,($/troy oz),2648.000000,Monthly Prices!BR786,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-01,COBRE,Copper,($/mt),8991.000000,Monthly Prices!BM787,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-01,ORO,Gold,($/troy oz),2710.000000,Monthly Prices!BR787,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-02,COBRE,Copper,($/mt),9331.000000,Monthly Prices!BM788,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-02,ORO,Gold,($/troy oz),2895.000000,Monthly Prices!BR788,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-03,COBRE,Copper,($/mt),9740.000000,Monthly Prices!BM789,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-03,ORO,Gold,($/troy oz),2983.000000,Monthly Prices!BR789,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-04,COBRE,Copper,($/mt),9177.000000,Monthly Prices!BM790,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-04,ORO,Gold,($/troy oz),3218.000000,Monthly Prices!BR790,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-05,COBRE,Copper,($/mt),9533.000000,Monthly Prices!BM791,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-05,ORO,Gold,($/troy oz),3309.000000,Monthly Prices!BR791,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-06,COBRE,Copper,($/mt),9835.000000,Monthly Prices!BM792,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-06,ORO,Gold,($/troy oz),3353.000000,Monthly Prices!BR792,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-07,COBRE,Copper,($/mt),9771.000000,Monthly Prices!BM793,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-07,ORO,Gold,($/troy oz),3340.000000,Monthly Prices!BR793,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-08,COBRE,Copper,($/mt),9670.000000,Monthly Prices!BM794,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-08,ORO,Gold,($/troy oz),3368.000000,Monthly Prices!BR794,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-09,COBRE,Copper,($/mt),9984.000000,Monthly Prices!BM795,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-09,ORO,Gold,($/troy oz),3668.000000,Monthly Prices!BR795,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-10,COBRE,Copper,($/mt),10740.000000,Monthly Prices!BM796,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-10,ORO,Gold,($/troy oz),4058.000000,Monthly Prices!BR796,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-11,COBRE,Copper,($/mt),10812.000000,Monthly Prices!BM797,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-11,ORO,Gold,($/troy oz),4087.000000,Monthly Prices!BR797,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-12,COBRE,Copper,($/mt),11785.000000,Monthly Prices!BM798,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2025-12,ORO,Gold,($/troy oz),4309.000000,Monthly Prices!BR798,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2026-01,COBRE,Copper,($/mt),13012.000000,Monthly Prices!BM799,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2026-01,ORO,Gold,($/troy oz),4753.000000,Monthly Prices!BR799,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2026-02,COBRE,Copper,($/mt),12951.000000,Monthly Prices!BM800,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2026-02,ORO,Gold,($/troy oz),5020.000000,Monthly Prices!BR800,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2026-03,COBRE,Copper,($/mt),12529.000000,Monthly Prices!BM801,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2026-03,ORO,Gold,($/troy oz),4856.000000,Monthly Prices!BR801,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2026-04,COBRE,Copper,($/mt),12951.000000,Monthly Prices!BM802,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2026-04,ORO,Gold,($/troy oz),4721.000000,Monthly Prices!BR802,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2026-05,COBRE,Copper,($/mt),13543.000000,Monthly Prices!BM803,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2026-05,ORO,Gold,($/troy oz),4587.000000,Monthly Prices!BR803,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2026-06,COBRE,Copper,($/mt),13552.000000,Monthly Prices!BM804,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2026-06,ORO,Gold,($/troy oz),4228.000000,Monthly Prices!BR804,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2026-07,COBRE,Copper,($/mt),13543.000000,Monthly Prices!BM805,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2026-07,ORO,Gold,($/troy oz),4073.000000,Monthly Prices!BR805,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2026-08,COBRE,Copper,($/mt),14326.000000,Monthly Prices!BM806,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2026-08,ORO,Gold,($/troy oz),4411.000000,Monthly Prices!BR806,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2026-09,COBRE,Copper,($/mt),14474.000000,Monthly Prices!BM807,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154
+2026-09,ORO,Gold,($/troy oz),4319.000000,Monthly Prices!BR807,data/commodities/originales/CMO-Historical-Data-Monthly.xlsx,ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154

@@ -1,0 +1,55 @@
+{
+  "version": "v2026.11.0",
+  "fecha_generacion": "2026-11-25",
+  "formato": "csv",
+  "tablas": [
+    {
+      "archivo": "src/data/csv/wb_precio_oro_cobre_mensual.csv",
+      "institucion": "World Bank (Banco Mundial)",
+      "periodo": "2015-01 a 2026-09",
+      "filas": 282,
+      "sha256": "fe92dca30f092d2ae46707a9bdc55898bd78a803f45cd10f1319d2eccf19f750",
+      "compuerta": "CUADRA",
+      "fuentes": [
+        {
+          "archivo_oficial": "data/commodities/originales/CMO-Historical-Data-Monthly.xlsx",
+          "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
+          "fecha_descarga": "2026-10-19",
+          "sha256": "ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154"
+        }
+      ]
+    },
+    {
+      "archivo": "src/data/csv/bce_exportaciones_mensuales.csv",
+      "institucion": "Banco Central del Ecuador (BCE)",
+      "periodo": "2021-A a 2025-A y 2024-01 a 2026-07",
+      "filas": 1296,
+      "sha256": "cf5b2cc801b8eb31e1509253ea624b1dfc1d89ab1cba926da4c528a9510bb076",
+      "compuerta": "CUADRA",
+      "fuentes": [
+        {
+          "archivo_oficial": "data/bce/iem_m2094/IEM-312-e.xlsx",
+          "url": "https://contenido.bce.fin.ec/documentos/PublicacionesNotas/Catalogo/IEMensual/m2094/IEM-312-e.xlsx",
+          "fecha_descarga": "2026-09-28",
+          "sha256": "650f54a176391102d3bc80591fd5949daaa8e550cc13e520e600d1cd0d1c180c"
+        }
+      ]
+    },
+    {
+      "archivo": "src/data/csv/bce_exportaciones_mineras_rubro.csv",
+      "institucion": "Banco Central del Ecuador (BCE)",
+      "periodo": "2025-T1 a 2026-T2",
+      "filas": 20,
+      "sha256": "6ea9ea0a38a0b1ad1688616db7d8c80c15b8e989161cc7eb6e21dc76d4cb8388",
+      "compuerta": "CUADRA",
+      "fuentes": [
+        {
+          "archivo_oficial": "data/bce/ReporteMinero072026.pdf",
+          "url": "https://contenido.bce.fin.ec/documentos/PublicacionesNotas/Catalogo/SectorReal/ReporteMinero072026.pdf",
+          "fecha_descarga": "2026-09-28",
+          "sha256": "f1f585f48f7a4a706fcd9e76f70e077e1afb6515d29bf144207c66f1f04f38f4"
+        }
+      ]
+    }
+  ]
+}

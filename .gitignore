@@ -1,0 +1,35 @@
+# Entornos virtuales y dependencias
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.pyc
+
+# Archivos de base de datos binarios y crudos pesados
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+data/raw/
+*.xlsx
+*.zip
+*.geojson
+
+# Variables de entorno y secretos locales
+*.local
+secrets/
+credentials*
+
+# Archivos de sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Caja de arena del agente y temporales
+.tmp/
+tmp/
+scratch/
+*.log
